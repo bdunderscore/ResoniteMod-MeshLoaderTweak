@@ -4,6 +4,8 @@ A [ResoniteModLoader](https://github.com/resonite-modding-group/ResoniteModLoade
 By allowing multiple meshes to process in parallel, and shifting particularly heavyweight meshes to a dedicated queue,
 it helps avoid situations where one particularly heavyweight mesh plugs up the queue and breaks things like the context menu.
 
+This mod relates Yellow-Dog-Man/Resonite-Issues#4484.
+
 **WARNING**: This mod will probably break as The Splittening(tm) proceeds! Use at your own risk.
 
 ## Installation
