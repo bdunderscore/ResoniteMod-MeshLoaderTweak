@@ -19,7 +19,7 @@ namespace MeshLoadTweak
         public override string Name => "MeshLoadSequencer";
         public override string Author => "bd_";
         public override string Version => "0.0.1";
-        public override string Link => "https://github.com/bdunderscore/MeshLoaderTweak";
+        public override string Link => "https://github.com/bdunderscore/ResoniteMod-MeshLoaderTweak";
         private static FieldInfo UnityAssetIntegrator_stopwatch;
         private static Type t_QueueAction;
         private static FieldInfo f_QueueAction_action;
